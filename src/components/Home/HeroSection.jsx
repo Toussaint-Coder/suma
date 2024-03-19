@@ -7,7 +7,7 @@ const HeroSection = () => {
       <div className="w-full min-h-[350px] bg-secondary rounded-3xl p-12 relative">
         <div className="absolute w-full h-full flex justify-center items-center top-0 left-0">
           <div>
-            <h1 className="text-[200px] font-bold text-white/15">2024</h1>
+            <h1 className="text-[250px] font-bold text-white/15">2024</h1>
           </div>
           <div className="absolute bottom-0 left-0 rounded-bl-3xl overflow-hidden flex justify-start">
             <div className="px-8 py-2 bg-[#921116] rounded-tr-3xl text-white font-bold relative z-10">
