@@ -32,17 +32,7 @@ const HeroSection = () => {
                 <p>$150.00</p>
                 <p className="text-[#F54840] line-through">$170.00</p>
               </div>
-              <div className="flex justify-between">
-                <div className="bg-[#D5BFC0] px-4 rounded-full text-xs mt-1">
-                  colors
-                </div>
-                <div className="flex gap-2">
-                  <Color className="bg-[#ffffff] first:border first:border-black" />
-                  <Color className="bg-[#6B1D20]" />
-                  <Color className="bg-[#FFE713]" />
-                  <Color className="bg-[#A69F95]" />
-                </div>
-              </div>
+              <Color/>
             </div>
           </div>
           <div className="flex-grow flex-[50%]">

@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 1,
+        "name" : "Classic T-shirt",
+        "initialPrice" : 170,
+        "soldPrice" : 150,
+        "img" : "./recents/img_1.png"
+    },
+    {
+        "id" : 2,
+        "name" : "V-Neck T-shirt",
+        "initialPrice" : 170,
+        "soldPrice" : 150,
+        "img" : "././recents/img_2.png"
+    },
+    {
+        "id" : 3,
+        "name" : "Premium T-shirt",
+        "initialPrice" : 170,
+        "soldPrice" : 150,
+        "img" : "././recents/img_3.png"
+    },
+    {
+        "id" : 4,
+        "name" : "Active T-shirt",
+        "initialPrice" : 170,
+        "soldPrice" : 150,
+        "img" : "././recents/img_4.png"
+    },
+    {
+        "id" : 5,
+        "name" : "Classic T-shirt",
+        "initialPrice" : 170,
+        "soldPrice" : 150,
+        "img" : "././recents/img_5.png"
+    },
+    {
+        "id" : 6,
+        "name" : "V-Neck T-shirt",
+        "initialPrice" : 170,
+        "soldPrice" : 150,
+        "img" : "././recents/img_6.png"
+    },
+    {
+        "id" : 7,
+        "name" : "Premium T-shirt",
+        "initialPrice" : 170,
+        "soldPrice" : 150,
+        "img" : "././recents/img_7.png"
+    },
+    {
+        "id" : 8,
+        "name" : "Active T-shirt",
+        "initialPrice" : 170,
+        "soldPrice" : 150,
+        "img" : "././recents/img_8.png"
+    }
+]
